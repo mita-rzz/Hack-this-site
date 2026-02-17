@@ -17,7 +17,7 @@ untuk mengetahui file nya dapat dilakukan inject dari kolom input ini dengan car
 dan terdaopat file dengan nama k1kh31b1n55h.php
 Untuk mengetahui isi nya tinggal menambah alamat url level 7 dengan  k1kh31b1n55h.php menjadi https://www.hackthissite.org/missions/basic/7/k1kh31b1n55h.php
 
-setelah itu akan nampak password nya yaitu 
+setelah itu akan nampak password nya yaitu 3f39a08b 
 
 <img width="1855" height="1032" alt="image" src="https://github.com/user-attachments/assets/060ecb82-8bc4-41b6-b0c2-e706c603f878" />
 
